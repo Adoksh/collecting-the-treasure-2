@@ -1,1 +1,1 @@
-# collecting-the-treasure-2
+# collecting-treasure
